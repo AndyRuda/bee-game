@@ -1,0 +1,10 @@
+#game-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+#main{
+    border: 1px solid black;
+}
